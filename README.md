@@ -1,7 +1,7 @@
 # Rogue-Dungeon
 Risk everything. Escape with riches—or die trying.
 
-### **Short Description (Steam blurb)**
+### **Short Description**
 
 A high-stakes multiplayer 3D dungeon crawler where every run matters. Choose your class, grow stronger, and dive into dangerous dungeons for loot and power. Escape alive to keep your rewards—die, and lose everything.
 
